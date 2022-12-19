@@ -1,6 +1,6 @@
 Hello world,
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinTan2025)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinTan2025&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **KevinTan2025/KevinTan2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
