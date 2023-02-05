@@ -1,4 +1,12 @@
-Hello world,
+### Hey, I'm Kevin from Malaysia.
+
+- 🤔 Currently learning with Mikrotik firewall settings.
+- 💬 2023, A brand new year to me, a brand new reborn.
+- ⚡ Self learnin since I was 12 with my very first laptop. (HP G42)
+- 🌱 In March, I'm going for university for getting a whole new life.
+- 📫 Try to reach me at ![kevin@darkhorse.cloud](mailto:kevin@darkhorse.cloud)
+
+
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinTan2025&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
