@@ -4,7 +4,7 @@
 - 💬 2023, A brand new year to me, a brand new reborn.
 - ⚡ Self learnin since I was 12 with my very first laptop. (HP G42)
 - 🌱 In March, I'm going for university for getting a whole new life.
-- 📫 Try to reach me at kevin@darkhorse.cloud
+- 📫 Try to reach me at me@kevintan.pro
 
 
 
